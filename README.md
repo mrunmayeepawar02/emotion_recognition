@@ -5,3 +5,4 @@ This Project is created to identify the emotion of a person. There are 3 Algorit
 3) Resnet50 - Accuracy was 0.99
 The Accuracy of Resnet was High so the model used was of Resnet50
 Using Flask framework the model was deployed on web and after uploading the image ther user was able to view the emotion of a person
+The Code of this Project is given You have to Download the dataset FER2013 from kaggle and do the configuration for flask framework and un every file
